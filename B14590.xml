@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments and reasons mentioned in the petition unto the right honourable assembly of the Commons house in Parliament, exhibited by thousands of carpenters, smithes, plaisterers, glasiers, painters, and other handicrafts men. Declaring, first why houses ought to be repaired in the citties of London and Westminster with the suburbes. Secondly, also why forefronts in new building in the said citties and suburbes ought to bee done with timber, and not with stone and bricke, howbeit notwithstanding former proclamations to that effect: whereby it may iustly appeare the Kings Maiesty hath beene abused, and the citties of London and Westminster likewise greatly wronged. First, for reparing. Secondly, for forefronts of timber.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14590</idno><idno type="EEBO-CITATION">99892547</idno>
+  <idno type="VID">188907</idno>
+  <idno type="EEBO-PROQUEST">2264197613</idno>
+  
+            <idno type="STC">STC 16768.26</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[119]</idno>
+            <idno type="PROQUEST">ocm99892547</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892547e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188907)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments and reasons mentioned in the petition unto the right honourable assembly of the Commons house in Parliament, exhibited by thousands of carpenters, smithes, plaisterers, glasiers, painters, and other handicrafts men. Declaring, first why houses ought to be repaired in the citties of London and Westminster with the suburbes. Secondly, also why forefronts in new building in the said citties and suburbes ought to bee done with timber, and not with stone and bricke, howbeit notwithstanding former proclamations to that effect: whereby it may iustly appeare the Kings Maiesty hath beene abused, and the citties of London and Westminster likewise greatly wronged. First, for reparing. Secondly, for forefronts of timber.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1621?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Showing why houses should be repaired and why forefronts ought to be made of timber rather than stone or brick." -- STC.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Buildings --  Maintenance --  Early works to 1800.</term>
+               <term type="topical_term">Buildings --  Repair and reconstruction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:188907:1"/>
+            <head>Arguments and Reasons mentioned in the Petition vnto the Right Honourable Assembly of the Commons house in Parliament, exhibited by thousands of Carpenters, Smithes, Plaisterers, Glasiers, Painters, and other handicrafts men.</head>
+            <p>
+               <hi>Declaring, first why houses ought to be repaired in the Citties of London and Westminster with the suburbes.</hi>
+            </p>
+            <p>
+               <hi>Secondly, also why Forefronts in new building in the said Citties and suburbes ought to bee done with Timber, and not with Stone and Bricke, howbeit notwithstanding former Proclamations to that effect: whereby it may iustly appeare the Kings Maiesty hath beene abused, and the Citties of London and Westminster likewise greatly wronged.</hi>
+            </p>
+            <p>
+               <hi>First, for reparing.</hi>
+            </p>
+            <p>
+               <hi>Secondly, for Forefronts of Timber.</hi>
+            </p>
+            <div type="part">
+               <p>FIrst. It doth vndoe many that can repaire their houses, but not new build them.</p>
+               <p>Secondly. Whereas fiue or ten, pound will make a house serue for thirty or forty yeares, three or foure hundred pound will not new build that.</p>
+               <p>Thirdly. It hath and will be a meanes to waste abundance of Timber, when houses must be pulled downe before they need.</p>
+               <p>Fourthly. If a man take a Lease for twenty one yeares, and if the houses stand not aboue fourteene or sixteene yeares, must be repaired, and being de<g ref="char:EOLhyphen"/>nied repairing, the house must either fall, or else the building will be chargeable for the remainder of the yeares besides the breach of Covenants contrary to Law.</p>
+               <p>Fifthly. If a cavilling Tenant be not disposed to repaired his house according to his Covenants, but to wrong the Landlord will complaine the Com<g ref="char:EOLhyphen"/>missioners for buildings, and so haue it pull'd downe when reasonable reparations will serue.</p>
+               <p>Sixthly. By this occasion many thousands haue beene cast out of employments in their lawfull callings, and by this meanes many haue perished. But further most honourable Assembly, there lieth hidden a secret mystery of mischiefe, and that in two respects generally, now vsed in these forefronts, made with Bricke and Stone: first, in regard of the present vse of it: secondly, in regard of restraint of fire.</p>
+               <div type="section">
+                  <head>Of the present vse there are fiue particulars to be considered.</head>
+                  <p>First. Shoppes can not be altered forevery Mans Trade in Stone, or Bricke, as it can with Timber.</p>
+                  <p>Secondly. It takes vp a great deale of more Roome then Timber doth, and shopp roome is precious.</p>
+                  <p>Thirdly. Thereby shopps cannot be so lightsome as it will be with Timber.</p>
+                  <p>Fourthly. Shopps or forefronts cannot be repaired as it may with Timber.</p>
+                  <p>Fifthly. Forefronts cannot stand without much banding of Timber.</p>
+               </div>
+               <div type="section">
+                  <head>In the second generall for restraint of fire where there are foure particulars to be considered.</head>
+                  <p>First. If a house be on fire, there is no way to quench it but by pulling it downe, and fire hookes in Brick-worke can pull away no no more then they take hold on. So that many houses may be burnt before one can be pulled downe.</p>
+                  <p>Secondly. The Bricke and Stone being hote will fly, and indanger any that shall come to quench such fires.</p>
+                  <p>Thirdly. The extremity of the heat of the house burning will set on fire the next house through the Bricke-walls, they being so thinne, and banded with Timber so thicke as they are, and of necessity must be, or else it will soone cracke and be ruinated.</p>
+                  <p>Fourthly. Whereas the houses of <hi>London</hi> and <hi>Westminster</hi> doe stand so closse together as they doe, put the case if all the forefronts were built with Stone and Bricke, if the Papists (who are Arch enemies of God and his truth, and so consequently against their Christian King and Countrey) should set on fire but one of those houses in their wonted, malicious, and privy Conspiracy and Trechery, there is no meanes to quench this fire, vntill all the houses ad<g ref="char:EOLhyphen"/>joyning through that street, lane, alley, or yard, were burnt downe, the insides and the goods consume<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and the forefront stand, not onely reasons be<g ref="char:EOLhyphen"/>fore recited, but also wofull experience both here and elsewhere hath proved it to be so.</p>
+                  <p>Wherefore most Honourable Assembly, may it please you, that whereas the Mystery of this Cause lieth in our Element to consider. And seeing that every particular Workeman doth giue his Workemaster his opinion, what may be best in the matter and manner of repairing and building; So wee take that to be our bound and duty to giue you to vnderstand, what and how Materialls are to be placed in the best manner of building for safety or restraint of fire, as also for benefit and Ornament, as followeth.</p>
+                  <p>First. For restraint of fire, and safety in buildings in <hi>London</hi> and <hi>Westminster,</hi> is with Bricke betweene house and house, and backeward against any house, and Timber forefronts for these causes ensuing.</p>
+                  <p>First. There will be more roome for strength of people to come to quench the fire.</p>
+                  <p>Secondly. If the Summers of the Floores, which is the principall fuell of such fires, be framed into the Timber forefronts, then set fire-hookes vnto the mainest peices of the same forefronts, and pull them away, the floores will also fall, and beat out the force of the fire sodainly.</p>
+                  <p>Thirdly. There will be more water brought to quench such fires (being vnderhand) in one houre, then will or can be in foure houres, the fire being on the vpper part of the fired house.</p>
+                  <p>Fourthly. It will saue abundance of goods that may be in those fired houses, as Money, Plate, Brasse, Pewter, Iron, and other houshold stuffe, though disfigured, yet not consumed, as it will be in Bricke forefronts.</p>
+                  <p>Fifthly. The Timber forefronts being pulled downe, and the backe or sides being of Bricke, will remaine good to reedifie againe.</p>
+                  <p>Sixthly. It will be a meanes to saue neighbours houles from being set on fire, from pulling downe, and their goods spoyled and wasted.</p>
+                  <p>Seventhly. It will be a meanes to saue much goods from being stolne by wicked wretches, that come more to steale, and get pillage, then to helpe to ma<g ref="char:EOLhyphen"/>ster the fire.</p>
+                  <p>Eightly. This manner of building fires will thereby be mastered and quenched without hazarding of mens limmes and liues by breaking of ladders, and falling from topps of houses.</p>
+                  <p>And so much for safety and restraint of fire.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Now for the manner of standing of Forefronts three things are to be considered.</head>
+               <p>First. Forefronts of Timber to stand vpon the old Foundation, will be the more roome for Coaches and Carts to passe along the Streets and Lanes.</p>
+               <p>Secondly. It will be a meanes to avoide future differenes betweene Prince and Subiects.</p>
+               <p>Thirdly. The first story to iutt out about a foote and a halfe, thereby to haue the lesse pentishing over shoppes, and all stories after to goe vpright without iutting.</p>
+               <div type="section">
+                  <head>Now for Ornament.</head>
+                  <p>First. Cant Windowes are best being workemanlike handled, and not iutt out at foot, but standeth vpon Cattooses, with other appurtenances belong<g ref="char:EOLhyphen"/>ing to Forefronts: experience may teach vs that Timber Forefronts are most beautifull, and of longest durance.</p>
+                  <p>Secondly. Cant Windowes are best for prospect, for ayre, and for light, so they raunge not one further forth then the other.</p>
+                  <p>
+                     <hi>Obiection.</hi> But Stone and Bricke doe saue Timber for shippes.</p>
+                  <p>
+                     <hi>Answere.</hi> First. Firre Timber hath beene at a cheaper rate then our Timber, and will last neere two hundred yeares, being alwayes wet or dry.</p>
+                  <p>Secondly. The fetching of it increaseth shipps and Mariners.</p>
+                  <p>Thirdly. That is profitable to the Kings Custome.</p>
+                  <p>Fourthly. Iron Mills doe wast abundance of Timber.</p>
+                  <p>Fifthly. The Statute for preservatiue of Timber is neglected.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <p>And thus having indeavoured the common good of the two famous Citties with their Inhabitants, craving your acceptance, wee commend these things to the blessing of God, and your wise considerations.</p>
+               <pb facs="tcp:188907:2"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
